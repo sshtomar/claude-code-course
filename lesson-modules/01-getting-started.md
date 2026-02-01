@@ -2,6 +2,8 @@
 
 Welcome to your first Claude Code lesson! By the end of this lesson, you'll understand what Claude Code is, how to navigate a session, and complete your first coding task.
 
+> **About this course**: This course was inspired by [Boris Cherny's Twitter thread](https://x.com/bcherny/status/2017742741636321619) sharing productivity tips from the Claude Code team. Boris created Claude Code at Anthropic, and his insights on workflows, context management, and best practices form the foundation of what you'll learn here.
+
 ---
 
 ## What is Claude Code?

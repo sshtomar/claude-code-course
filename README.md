@@ -2,6 +2,10 @@
 
 An interactive course for learning Claude Code, designed to be taken inside a Claude Code terminal session.
 
+## Inspiration
+
+This course was inspired by [Boris Cherny's Twitter thread](https://x.com/bcherny/status/2017742741636321619) sharing productivity tips from the Claude Code team at Anthropic. Boris is the creator of Claude Code, and his thread covers best practices like using git worktrees for parallel sessions, the plan-first workflow, and effective use of CLAUDE.md files.
+
 ## Quick Start
 
 1. Navigate to this directory:
@@ -108,6 +112,12 @@ Edit `.claude/CLAUDE.md` to adjust how Claude teaches the material.
 - Claude Code installed (`curl -fsSL https://claude.ai/install.sh | bash`)
 - Active Claude subscription (Pro, Max, Teams, or Enterprise)
 
+## Credits
+
+- **Inspiration**: [Boris Cherny's Twitter thread](https://x.com/bcherny/status/2017742741636321619) on Claude Code productivity tips
+- **Documentation**: [Official Claude Code docs](https://code.claude.com/docs)
+- **Creator**: Boris Cherny ([@bcherny](https://x.com/bcherny)) created Claude Code at Anthropic
+
 ## License
 
-Educational use. Based on official Claude Code documentation at https://code.claude.com/docs
+Educational use. Based on official Claude Code documentation and community best practices.
